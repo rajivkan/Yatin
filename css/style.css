@@ -1,0 +1,21 @@
+body{
+	background: #ccc;
+	padding: 0px;
+	margin: 0px;
+}
+
+.bodyGreen{
+	background: green;
+}
+
+.div-style{
+	font-size: 15px;
+	color: red;
+	background: #eee;
+	text-decoration: underline;
+}
+
+.div-style2{
+	color: #fff;
+	background: #000;
+}
